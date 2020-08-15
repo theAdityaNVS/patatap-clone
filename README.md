@@ -19,6 +19,6 @@ Patatap turns your browser into a musical animation controlled by your keyboard.
 - Make a Mobile Responsive Website.
 - Also an Android App Version.
 
-### Sound Collection
+### Credits
 
-[jonobr1](http://jonobr1.com/)
+ Sound Collection by [jonobr1](http://jonobr1.com/)
